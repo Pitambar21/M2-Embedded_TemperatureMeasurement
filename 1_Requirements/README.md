@@ -17,35 +17,33 @@ In our project, the sensor will sense that the passenger  has been seated or not
 - Low cost and Robust system.
 
 ### Weakness
-- Its only applicable for those countries which are having low temperature.
+- Speed contorl is independent of individual perference.
 ### Opportunities
-- It can be implemented by having both Heater and AC.
+- It is a modern way of approach.
 ### Threats
 - Not suitable for average or high temperature places.
 
 ## 4W's and 1'H
+### **WHO** : 
 ### **WHAT** : 
-### **WHERE** : 
-### **WHEN** : 
+### **WHERE** :
+### **HOW** :
 
 ## Detail requirements
 ### High Level Requirements
-| High Level Requirements      | Description |
-| ----------- | ----------- |
-| HLR1      | Microcontroller   |
-| HLR2   | Temperature Sensor|
-| HLR3   | Heat Generation|
-| HLR4   | Display|
-| HLR5   | Software used|
+| High Level Requirements      | Description |Status|
+| ----------- | ----------- | ----------- |
+| HLR1      | Microcontroller Atmega328  |Implemented|
+| HLR2   | Temperature Sensor|Implemented|
+| HLR3  | Display|Implemented|Implemented|
+| HLR4   | Software used|Implemented|
 
 ### Low Level Requirements
-| Low Level Requirements      | Description |
-| ----------- | ----------- |
-| HLR1_LLR1      | ATmega328     |
-| HLR2_LLR1   | LM35 and ADC|
-| HLR2_LLR2   | ADC with PWM-fast|
-| HLR3_LLR1   | Thermoelectric module|
-| HLR4_LLR1   |LCD and LED|
-| HLR5_LLR1   | Code Blocks with AVR GCC compiler |
-| HLR5_LLR2   | SimulIDE |
+| Low Level Requirements      | Description |Status|
+| ----------- | ----------- |----------- |
+| LLR1      | LM35 and ADC     |Implemented|
+| LLR2   |LCD and LED |Implemented|
+| LLR3  | Code Blocks with AVR GCC compiler |Implemented|
+| LLR4   | SimulIDE |Implemented|
+
 
