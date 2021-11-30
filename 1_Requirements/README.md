@@ -44,6 +44,6 @@ In our project, the sensor will sense that the passenger  has been seated or not
 | LLR1      | LM35 and ADC     |Implemented|
 | LLR2   |LCD and LED |Implemented|
 | LLR3  | Code Blocks with AVR GCC compiler |Implemented|
-| LLR4   | SimulIDE |Implemented|
+| LLR4   | SimulIDE |Implemented| 
 
 
