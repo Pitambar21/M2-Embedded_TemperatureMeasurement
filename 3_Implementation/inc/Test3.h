@@ -9,8 +9,8 @@
  *
  */
 
-#ifndef __Test4_H__
-#define __Test4_H__
+#ifndef __Test3_H__
+#define __Test3_H__
 #include<avr/io.h>
 /**
  * @brief Inittialize UART serial communication ports
