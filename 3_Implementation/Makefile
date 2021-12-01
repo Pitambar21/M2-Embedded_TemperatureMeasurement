@@ -1,4 +1,4 @@
-DOXYFILE_NAME = Tempreture Measurement
+DOXYFILE_NAME = Tempreture Measurement System For Bus
 BUILD_FILE = html
 
 FixPath = $(subst /,\,$1)
