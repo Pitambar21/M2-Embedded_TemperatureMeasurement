@@ -1,7 +1,7 @@
 /**
  * @file Test1.c
  * @author Pitambar
- * @brief Chanfes the state of LED
+ * @brief Changes the state of LED or Fan
  * @version 0.1
  * @date 2021-12-01
  *
