@@ -45,7 +45,7 @@
 | HLR1      | User shall able to see the present Temperature |Technical |Implemented|
 | HLR2   | Fan should automatically swtich off when temperature is low |Technical |Implemented|
 | HLR3  | Fan should automatically swtich On when temperature is high| Technical|Implemented| 
-| HLR4   | User shall able to control the speed of Fan| |Technical|Future|
+| HLR4   | User shall able to control the speed of Fan| Technical|Future|
 
 ### Low Level Requirements
 | Low Level Requirements      | Description|Category |Status|
