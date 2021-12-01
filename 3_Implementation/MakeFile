@@ -1,12 +1,12 @@
-PROJ_NAME = Temperature Measurement System for Bus
+PROJ_NAME = Embedded_C
 
 BUILD_DIR = build
 
 # All Source code files
-SRC = src/Test1.c\
-src/Test2.c\
-src/Test3.c\
-src/Test4.c\
+SRC = src/Activity1.c\
+src/Activity2.c\
+src/Activity3.c\
+src/Activity4.c\
 main.c\
 
 
