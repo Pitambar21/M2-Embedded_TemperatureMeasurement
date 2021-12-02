@@ -1,0 +1,23 @@
+3_Implementation/src/test3.c:36:16: style: Unsigned expression 'ADC_val' can't be negative so it is unnecessary to test it. [unsignedPositive]
+    if((ADC_val>=0) && (ADC_val<=209)){
+               ^
+3_Implementation/src/test2.c:27:0: style: The function 'InitADC' is never used. [unusedFunction]
+
+^
+3_Implementation/src/test1.c:23:0: style: The function 'InitLED' is never used. [unusedFunction]
+
+^
+3_Implementation/src/test3.c:18:0: style: The function 'InitPWM' is never used. [unusedFunction]
+
+^
+3_Implementation/src/test3.c:31:0: style: The function 'OutPWM' is never used. [unusedFunction]
+
+^
+3_Implementation/src/test2.c:13:0: style: The function 'ReadADC' is never used. [unusedFunction]
+
+^
+3_Implementation/src/test1.c:19:0: style: The function 'ledstat' is never used. [unusedFunction]
+
+^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
