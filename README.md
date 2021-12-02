@@ -1,4 +1,4 @@
-## M2-Embedded_Temperature Measurement System For Bus
+# M2-Embedded_Temperature Measurement System For Bus
 
 [![cppcheck-action-test](https://github.com/Pitambar21/M2-Embedded_TemperatureMeasurement/actions/workflows/cpp.yml/badge.svg)](https://github.com/Pitambar21/M2-Embedded_TemperatureMeasurement/actions/workflows/cpp.yml)
 
