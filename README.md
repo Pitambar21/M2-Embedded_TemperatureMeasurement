@@ -2,6 +2,14 @@
 
 [![cppcheck-action-test](https://github.com/Pitambar21/M2-Embedded_TemperatureMeasurement/actions/workflows/cpp.yml/badge.svg)](https://github.com/Pitambar21/M2-Embedded_TemperatureMeasurement/actions/workflows/cpp.yml)
 
+## Code Quality
+
+[![Code Grade](https://www.code-inspector.com/project/27819/score/svg)](https://frontend.code-inspector.com/public/project/27819/M2_M2-Embedded_TemperatureMeasurement/dashboard)
+
+## Code Grade
+
+![Qyality grade](https://www.code-inspector.com/project/27819/status/svg)
+
 # Requirements
 
 ## Research
